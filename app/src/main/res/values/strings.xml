@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Albums List</string>
+    <string name="album_details">Album Details</string>
+    <string name="title_error_connection">No internet connection</string>
+    <string name="message_error_connection">Please, check your internet connection or try again later.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="contentDescription_imgLarge">Photo Album Large Version</string>
+</resources>
